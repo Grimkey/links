@@ -1,6 +1,10 @@
 # Helpful links
 This is a list of links that I've found helpful and want to remember.
 
+## Markdown
+- [Code Academy](https://www.codecademy.com/resources/docs/markdown)
+- [Learn X in Y Minutes - Markdown](https://learnxinyminutes.com/docs/markdown/)
+
 ## Python
 - [Learn X in Y Minutes - Python](https://learnxinyminutes.com/docs/python/)
 
